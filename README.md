@@ -9,3 +9,4 @@ Imported required Python libraries.
 Loaded the transactional dataset into Google Colab.
 Performed initial dataset exploration using head(), shape().
 Cleaned the data set
+analysed the dataset
