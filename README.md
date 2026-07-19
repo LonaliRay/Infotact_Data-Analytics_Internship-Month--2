@@ -10,3 +10,7 @@ Loaded the transactional dataset into Google Colab.
 Performed initial dataset exploration using head(), shape().
 Cleaned the data set
 Analysed the dataset.
+Reviewed dataset structure using info().
+Checked column data types.
+Identified missing values.
+Identified duplicate records.
