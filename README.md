@@ -14,4 +14,4 @@ Reviewed dataset structure using info().
 Checked column data types.
 Identified missing values.
 Identified duplicate records.
-verified the duplicate record
+verified the duplicate record.
