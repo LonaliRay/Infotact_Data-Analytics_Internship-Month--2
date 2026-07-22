@@ -15,3 +15,4 @@ Checked column data types.
 Identified missing values.
 Identified duplicate records.
 verified the duplicate record.
+Merged the records
