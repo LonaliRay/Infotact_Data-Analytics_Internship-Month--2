@@ -75,6 +75,7 @@ Identified average retention across cohorts.
 Summarized customer retention performance.
 
 Day 14
+calculated the measures
 
 Exported the retention matrix.
 Saved the retention percentage dataset.
